@@ -1,0 +1,76 @@
+.givi {
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    
+    background: #FFFFFF;
+    
+
+}
+.menubar {
+   
+position: absolute;
+width: 1030px;
+height: 862px;
+left: 410px;
+top: 162px;
+
+background: #0b5728;
+
+
+
+}
+.aside {
+    position: absolute;
+    width: 413px;
+    height: 862px;
+    left: 0px;
+    top: 162px;
+    
+    background: #569970;
+
+
+
+}
+.foto {
+    position: absolute;
+    width: 1440px;
+    height: 164px;
+    left: 0px;
+    top: 0px;
+    
+    background: #085a4f;
+
+}
+.text_f {
+
+    position: absolute;
+    width: 270px;
+    height: 48px;
+    left: 67px;
+    top: 443px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    
+    color: #ebebeb;
+    
+    
+}
+.gfront {
+    
+   
+position: absolute;
+width: 199px;
+height: 199px;
+left: 102px;
+top: 202px;
+
+background: #ff9900;
+
+
+
+}
